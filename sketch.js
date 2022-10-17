@@ -1,3 +1,4 @@
+//Exercise inspired by The Coding Train using P5.js library
 let x, y, r, g, b;
 
 function setup() {
